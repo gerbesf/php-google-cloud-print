@@ -1,0 +1,6 @@
+{
+    "name": "gerbesf/php-google-cloud-print",
+    "require": {},
+    "version": "0.0.1",
+    "minimum-stability": "dev"
+}
